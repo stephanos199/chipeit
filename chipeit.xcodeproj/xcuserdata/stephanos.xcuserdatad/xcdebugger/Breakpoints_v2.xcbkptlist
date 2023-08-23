@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "976A44E9-A69E-4DE5-8E63-28C609F523D7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DFF35AD-8474-4346-982D-57B5A8315A9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "Chip8::debug_unknown_opcode(opcode)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E64F9348-F24D-44BC-B0A0-D15979048EA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E64F9348-F24D-44BC-B0A0-D15979048EA7 - 30802a0fbf23cf7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+               <Location
+                  uuid = "E64F9348-F24D-44BC-B0A0-D15979048EA7 - 30802a0fbf23cf5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF8680A0-5A74-49F8-8567-4CB71F658202"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED4E50CB-1C49-41EC-A235-CEC12E99F164"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED4E50CB-1C49-41EC-A235-CEC12E99F164 - 30802a0fbf23d1c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "ED4E50CB-1C49-41EC-A235-CEC12E99F164 - 30802a0fbf23d1a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "684">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B74BD08-BA76-4BFD-A192-224A627B873A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B74BD08-BA76-4BFD-A192-224A627B873A - 30802a0fbf23d148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "9B74BD08-BA76-4BFD-A192-224A627B873A - 30802a0fbf23d12b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F9CCA91-B38B-4CB0-9432-DCA96F3D62D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBDF844E-0240-4943-8120-BA992FA8EA3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBDF844E-0240-4943-8120-BA992FA8EA3C - 30802a0fbf23c3d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "231"
+                  endingLineNumber = "231"
+                  offsetFromSymbolStart = "2620">
+               </Location>
+               <Location
+                  uuid = "DBDF844E-0240-4943-8120-BA992FA8EA3C - 30802a0fbf23c3bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "2612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26877D29-3C7B-4E90-8BEE-FA37F55E2BA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43048C05-ACAB-468A-9542-A656F72C0721"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43048C05-ACAB-468A-9542-A656F72C0721 - 30802a0fbf23cefe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "1916">
+               </Location>
+               <Location
+                  uuid = "43048C05-ACAB-468A-9542-A656F72C0721 - 30802a0fbf23cea1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "1908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1CB99FB-D26D-4AC6-8A49-435EC9F4980E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1CB99FB-D26D-4AC6-8A49-435EC9F4980E - 30802a0fbf23c8ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+               <Location
+                  uuid = "B1CB99FB-D26D-4AC6-8A49-435EC9F4980E - 30802a0fbf23c8b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chip8::emulateCycle()"
+                  moduleName = "chipeit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stephanos/Documents/chipeit/chipeit/chip8.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6787CFE-4C7C-431F-86BE-D67DFE591DA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E305A39-1A31-4DC7-83EE-CEA69B3111E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chipeit/chip8.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "Chip8::emulateCycle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
